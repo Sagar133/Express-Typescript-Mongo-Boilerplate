@@ -1,0 +1,6 @@
+{
+  "NODE_ENV": "development",
+  "WALLET_KEY": "",
+  "WALLET_ADDR": "",
+  "WEB3_URL_HTTP": ""
+}
